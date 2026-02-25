@@ -50,7 +50,7 @@ I am continuously learning and exploring new technologies to expand my skill set
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
 <p align="left">
-    <a href="https://discord.com/users/1236609706672263230" target="blank">
+    <a href="https://discord.com/users/823556642880356353" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord Profile" height="30" width="40" />
     </a>
 </p>
