@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Francesco</h1>
+<h1 align="center">Hi there! I'm Grey</h1>
 <h3 align="center">A passionate developer with a knack for coding and creativity. Here's a little more about me:</h3>
 
 ---
